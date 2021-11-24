@@ -166,7 +166,7 @@ function draw() {
     c.font = "20px Bangers";
     c.fillStyle = "red";
     c.fillText("Score: " + (k).toString(), canvas.width / 2 - 30, 20);
-    c.fillStyle = "red";
+    c.fillStyle = "blue";
     c.fillText("High Score: " + (highScore).toString(), 95, 500);
     //draw score
 
@@ -192,7 +192,7 @@ function draw() {
             angle = 180;
             birdY = canvas.height - 118 - 26;
             c.font = "50px Bangers";
-            c.fillStyle = "khaki";
+            c.fillStyle = "red";
             c.fillText("GAME OVER !", 35, canvas.height / 2 - 30);
             failSound.play();
         }
