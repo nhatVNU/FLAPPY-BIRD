@@ -36,7 +36,7 @@ canvas {
     left: 20px;
     font-family: 'Bangers', cursive;
     font-weight: bolder;
-    background-color: khaki;
+    background-color: green;
     width: 100px;
     height: 30px;
 }
@@ -48,7 +48,7 @@ canvas {
     left: 170px;
     font-family: 'Bangers', cursive;
     font-weight: bolder;
-    background-color: khaki;
+    background-color: green;
     width: 110px;
     height: 30px;
 }
@@ -64,7 +64,7 @@ canvas {
     font-size: 160%;
     text-align: center;
     font-weight: bolder;
-    background-color: aqua;
+    background-color: red;
     width: 110px;
     height: 50px;
 }
